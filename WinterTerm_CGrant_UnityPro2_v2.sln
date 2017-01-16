@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8433160D-409D-97D5-B4F5-E7B27B3ACBD8}") = "WinterTerm_CGrant_UnityPro2_v2", "Assembly-CSharp.csproj", "{A182E338-C473-FA82-B0CF-292F40B3E86F}"
+EndProject
+Project("{8433160D-409D-97D5-B4F5-E7B27B3ACBD8}") = "WinterTerm_CGrant_UnityPro2_v2", "Assembly-CSharp-Editor.csproj", "{A505B85F-E82D-A73F-4BA0-C2F810DE91DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A182E338-C473-FA82-B0CF-292F40B3E86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A182E338-C473-FA82-B0CF-292F40B3E86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A182E338-C473-FA82-B0CF-292F40B3E86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A182E338-C473-FA82-B0CF-292F40B3E86F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A505B85F-E82D-A73F-4BA0-C2F810DE91DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A505B85F-E82D-A73F-4BA0-C2F810DE91DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A505B85F-E82D-A73F-4BA0-C2F810DE91DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A505B85F-E82D-A73F-4BA0-C2F810DE91DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
